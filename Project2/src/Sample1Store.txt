@@ -1,0 +1,15 @@
+"Nectarine" fruit 0.75
+"Rigatoni" starch 2.99
+"Mac & Cheese" starch 0.50
+"Grapes" fruit 1.58
+"Apples" fruit 1.99
+"Beef Chuck" meat 4.99
+"Potato Salad" starch 3.59
+"Fudge Brownie" sweet 4.99
+"Sugar Cookie" sweet 1.50
+"French Bread" starch 1.78
+"Sweet Peppers" vegetable 1.99
+"Spinach" vegetable 3.00
+"Butternut Squash" vegetable 4.39
+"Granola" starch 2.99
+"Banana" fruit 0.49

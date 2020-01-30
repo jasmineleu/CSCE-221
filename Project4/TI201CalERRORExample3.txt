@@ -1,0 +1,21 @@
+please enter an equation: ( ( 4 + 3 ) )
+the equation(list) we are looking at is:  ['(', '(', '4', '+', '3', ')', ')']
+ looking at ( in the equation
+(  was just added to opStack
+0  was just added to inputStack
+ looking at ( in the equation
+(  was just added to opStack
+0  was just added to inputStack
+ looking at 4 in the equation
+adding a value to ValueStack
+ looking at + in the equation
++  was just added to opStack
+1  was just added to inputStack
+ looking at 3 in the equation
+adding a value to ValueStack
+ looking at ) in the equation
+pop and process, found a )
+new answer being placed into the VALUE stack is:  7.0
+ looking at ) in the equation
+pop and process, found a )
+ERROR: unable to solve equation

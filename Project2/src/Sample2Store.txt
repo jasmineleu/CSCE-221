@@ -1,0 +1,13 @@
+"Grapes" fruit 1.58
+"Apples" fruit 1.99
+"Ground Beef" meat 7.99
+"Frozen Yogurt" sweet 2.59
+"Chunk Tuna" meat 0.78
+"Pork Chops" meat 6.89
+"SpaghettiO's" starch 0.98
+"Pork Spare Ribs" meat 13.80
+"Bacon" meat 4.29
+"Beef Chuck" meat 4.99
+"Potato Salad" starch 3.59
+"Fudge Brownie" sweet 4.99
+"Sugar Cookie" sweet 1.50

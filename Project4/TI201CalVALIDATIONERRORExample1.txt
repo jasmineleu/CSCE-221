@@ -1,0 +1,20 @@
+please enter an equation: ( ( 3 * 5 ) H
+ERROR: invalid equation
+please enter an equation: ( ( $ * 5 ) + 4
+ERROR: invalid equation
+please enter an equation: 12 + 4
+ERROR: invalid equation
+please enter an equation: -1 + 4
+ERROR: invalid equation
+please enter an equation: 1 + 1
+the equation(list) we are looking at is:  ['1', '+', '1']
+ looking at 1 in the equation
+adding a value to ValueStack
+ looking at + in the equation
++  was just added to opStack
+1  was just added to inputStack
+ looking at 1 in the equation
+adding a value to ValueStack
+pop and process, END OF EQUATION
+new answer being placed into the VALUE stack is:  2.0
+2.0

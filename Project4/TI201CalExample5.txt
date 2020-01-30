@@ -1,0 +1,26 @@
+please enter an equation: 3 * 5 * 5 + 4
+the equation(list) we are looking at is:  ['3', '*', '5', '*', '5', '+', '4']
+ looking at 3 in the equation
+adding a value to ValueStack
+ looking at * in the equation
+*  was just added to opStack
+2  was just added to inputStack
+ looking at 5 in the equation
+adding a value to ValueStack
+ looking at * in the equation
+STACK VALUE >= the new INPUT PRIORITY. So pop and process, and recheck.
+new answer being placed into the VALUE stack is:  15.0
+*  was just added to opStack
+2  was just added to inputStack
+ looking at 5 in the equation
+adding a value to ValueStack
+ looking at + in the equation
+STACK VALUE >= the new INPUT PRIORITY. So pop and process, and recheck.
+new answer being placed into the VALUE stack is:  75.0
++  was just added to opStack
+1  was just added to inputStack
+ looking at 4 in the equation
+adding a value to ValueStack
+END OF EQUATION, so pop and process until op Stack is only a $
+new answer being placed into the VALUE stack is:  79.0
+79.0
